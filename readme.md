@@ -43,12 +43,3 @@ The ChatGPT response will be split up into multiple tweet-sized replies.
 ## Related
 
 - Powered by the [Node.js ChatGPT API](https://github.com/transitive-bullshit/chatgpt-api)
-
-## License
-
-MIT © [Travis Fischer](https://transitivebullsh.it)
-
-> **Note**
-> This project is not affiliated with OpenAI in any way. It is just a fun, open source side project that uses their API.
-
-If you found this project interesting, please consider [sponsoring me](https://github.com/sponsors/transitive-bullshit) or <a href="https://twitter.com/transitive_bs">following me on twitter <img src="https://storage.googleapis.com/saasify-assets/twitter-logo.svg" alt="twitter" height="24px" align="center"></a>
