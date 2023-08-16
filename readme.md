@@ -1,12 +1,6 @@
 > **Note**
 > This project is not affiliated with OpenAI in any way. It is just a fun, open source side project that uses their API.
 
-<p align="center">
-  <a href="https://twitter.com/ChatGPTBot">
-    <img alt="Example Twitter thread using @ChatGPTBot" src="/media/demo.jpg">
-  </a>
-</p>
-
 # ChatGPT Twitter Bot <!-- omit in toc -->
 
 > Twitter bot powered by OpenAI's ChatGPT API.
