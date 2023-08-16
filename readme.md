@@ -5,13 +5,12 @@
 
 > Twitter bot powered by OpenAI's ChatGPT API.
 
-[![Build Status](https://github.com/transitive-bullshit/chatgpt-twitter-bot/actions/workflows/test.yml/badge.svg)](https://github.com/transitive-bullshit/chatgpt-twitter-bot/actions/workflows/test.yml) [![MIT License](https://img.shields.io/badge/license-MIT-blue)](https://github.com/transitive-bullshit/chatgpt-twitter-bot/blob/main/license) [![Prettier Code Formatting](https://img.shields.io/badge/code_style-prettier-brightgreen.svg)](https://prettier.io)
+[![Build Status](https://github.com/transitive-bullshit/chatgpt-twitter-bot/actions/workflows/test.yml/badge.svg)](https://github.com/transitive-bullshit/chatgpt-twitter-bot/actions/workflows/test.yml)  [![Prettier Code Formatting](https://img.shields.io/badge/code_style-prettier-brightgreen.svg)](https://prettier.io)
 
 - [Intro](#intro)
 - [Usage](#usage)
 - [Note](#note)
 - [Related](#related)
-- [License](#license)
 
 ## Intro
 
